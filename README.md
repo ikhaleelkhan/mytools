@@ -8,6 +8,6 @@ This repository contains a collection of tools for various purposes. To install 
 
    ```bash
    git clone https://github.com/ikhaleelkhan/mytools.git
-cd mytools
-chmod +x install.py
-python ./install.py
+   cd mytools
+   chmod +x install.py
+   python ./install.py
